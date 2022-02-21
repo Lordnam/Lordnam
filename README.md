@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lordnam
-- 👀 I’m interested in pro
+- 👀 I’m interested in programer
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
